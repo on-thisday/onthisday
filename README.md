@@ -6,7 +6,7 @@
 
 <h2>Information We Collect</h2>
 
-<p>The Extension does not collect any personal information from you. However, it allows you to upload and store images for customizing the background theme of the ChatGPT. These images are saved locally on your browser's storage and are not accessible or collected by us.</p>
+<p>The Extension does not collect any personal information from you. However, the extension displays your most visited sites at the left side of the screen as shortcuts, this information is saved locally on your browser's storage and is not accessible or collected by us.</p>
 
 <h2>Use of Your Information</h2>
 
