@@ -1,6 +1,6 @@
 <h1>Privacy Policy</h1>
 
-<p>Last updated: [Date]</p>
+<p>Last updated: [8/06/2023]</p>
 
 <p>Thank you for using "On This Day" Chrome extension ("the Extension"). This Privacy Policy explains how we collect, use, and safeguard your personal information when you use the Extension.</p>
 
